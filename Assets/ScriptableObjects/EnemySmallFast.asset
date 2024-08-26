@@ -17,5 +17,5 @@ MonoBehaviour:
   maxTimerDamageWithHero: 0.1
   lifePoints: 30
   moveSpeed: 2
-  attackStat: 50
+  attackStat: 0
   defenseStat: 50
